@@ -58,36 +58,8 @@ body {
 
 .logo-icon {
     position: absolute;
-    height: 46px;
-    top: 0;
-    width: 80px;
-}
-
-.logo-icon img {
-    display: block;
-    max-width: none;
-    width: 100%;
     height: 100%;
-    object-fit: contain;
-}
-
-.logo-text {
-    position: absolute;
-    display: flex;
-    flex-direction: column;
-    font-family: var(--font-quando);
-    justify-content: center;
-    line-height: 0;
-    left: calc(50% - 41px);
-    font-style: normal;
-    font-size: 18.383px;
-    color: var(--slate-700);
-    top: calc(50% + 16.67px);
-    letter-spacing: -0.1103px;
-    transform: translateY(-50%);
-    white-space: nowrap;
-    pointer-events: none;
-    line-height: 17.234px;
+    width: 100%;
 }
 
 /* Main Content */
