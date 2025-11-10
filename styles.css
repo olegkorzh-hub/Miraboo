@@ -549,11 +549,6 @@ html {
     animation: fadeInUp 0.3s ease-out;
 }
 
-.illustration-container {
-    animation: fadeInUp 0.3s ease-out;
-    animation-delay: 0.5s;
-}
-
 /* Accessibility */
 @media (prefers-reduced-motion: reduce) {
     *,
