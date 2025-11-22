@@ -264,7 +264,7 @@ body {
     flex-shrink: 0;
     width: 100%;
     box-sizing: border-box;
-    margin-bottom: 28px;
+    margin-bottom: 16px;
 }
 
 .shape-icon {
@@ -338,7 +338,7 @@ body {
     
     
     .features-container {
-        margin-bottom: 28px;
+        margin-bottom: 16px;
     }
 
     .main-content {
@@ -407,7 +407,7 @@ body {
     
     
     .features-container {
-        margin-bottom: 28px;
+        margin-bottom: 16px;
     }
 
     .main-content {
@@ -475,7 +475,7 @@ body {
     
     
     .features-container {
-        margin-bottom: 28px;
+        margin-bottom: 16px;
     }
 
     .logo-container {
