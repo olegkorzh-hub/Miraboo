@@ -205,7 +205,7 @@ body {
     justify-content: center;
     width: 100%;
     flex-shrink: 0;
-    margin-bottom: 28px;
+    margin-bottom: 10px;
 }
 
 
@@ -223,7 +223,7 @@ body {
     max-width: 100%;
     cursor: pointer;
     transition: all 0.3s ease;
-    padding: 21px 61px;
+    padding: 20px 60px;
     display: flex;
     align-items: center;
     justify-content: center;
