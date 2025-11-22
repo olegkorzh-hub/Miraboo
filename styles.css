@@ -296,6 +296,7 @@ body {
 /* Illustration Container */
 .illustration-container {
     flex-shrink: 0;
+    height: 406px;
     width: 100%;
     max-width: 400px;
     position: relative;
