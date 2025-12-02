@@ -107,7 +107,7 @@ body {
 .headline-text {
     font-family: var(--font-quicksand);
     font-weight: 700;
-    font-size: 32px;
+    font-size: 40px;
     line-height: normal;
     color: var(--slate-700);
     text-align: center;
@@ -264,7 +264,7 @@ body {
     flex-shrink: 0;
     width: 100%;
     box-sizing: border-box;
-    margin-bottom: 16px;
+    margin-bottom: 32px;
 }
 
 .shape-icon {
@@ -296,9 +296,9 @@ body {
 /* Illustration Container */
 .illustration-container {
     flex-shrink: 0;
-    height: 406px;
+    height: 480px;
     width: 100%;
-    max-width: 400px;
+    max-width: 700px;
     position: relative;
     display: flex;
     align-items: center;
