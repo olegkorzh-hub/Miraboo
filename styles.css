@@ -380,6 +380,10 @@ body {
         font-size: 20px;
     }
     
+    .illustration-container {
+    height: 360px;
+    }
+    
     .illustration-image {
         object-fit: contain;
     }
@@ -521,6 +525,10 @@ body {
 
     .button-text {
         font-size: 20px;
+    }
+
+    .illustration-container {
+    height: 360px;
     }
     
     .illustration-image {
